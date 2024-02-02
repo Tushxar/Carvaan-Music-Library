@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+    background-color: lightgreen;
+}
+
+div{
+    text-align: center;
+}
+.round{
+    border-radius: 75px 75px; 
+    border-style: solid;
+    
+    background: lightgreen;
+    padding: 25px;
+    text-align: center;
+    width: 500px;
+    height: 40px;
+}
+
+.design{
+    
+    border-radius: 75px 75px;
+    text-align: center;
+    color:beige;
+    padding: 40px;
+
+} 
+
+.karan{
+    color: aquamarine;
+  
+}
